@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "redux-react",
+=======
+  "name": "project1",
+>>>>>>> 7fd93e1 (second commit)
   "private": true,
   "version": "0.0.0",
   "type": "module",
