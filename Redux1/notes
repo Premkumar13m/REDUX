@@ -1,0 +1,29 @@
+# installation of the react-redux
+
+>npm i redux
+>npm i react-redux
+
+# file and folder configuraions
+>create three folder in src
+     > components
+     >containers
+     >service
+
+>components inside make two files
+     >Header.jsx
+     >Home.jsx
+
+>containers inside make two files
+     >HomeContainer.jsx
+     >HeaderContainer.jsx
+
+>service inside make two folder and one file called constant.jsx
+     >actions
+     >reducers
+   
+>actions inside make one files
+      >actions.jsx
+
+>reducers inside make two files
+      >index.jsx
+      >reducers.jsx
